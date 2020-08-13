@@ -1,0 +1,27 @@
+.projects {
+	/* color: #fff; */
+	margin-top: 60px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* align-items: center; */
+}
+.projects p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.projects .title {
+	font-size: 40px;
+	font-weight: 600;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.projects .subtitle {
+	font-size: 20px;
+	color: green;
+}
+
+.projects .subtitle:first-child {
+	font-size: 1.25rem;
+	color: indianred;
+}

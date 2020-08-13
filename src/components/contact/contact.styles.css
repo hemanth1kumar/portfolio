@@ -1,0 +1,21 @@
+.contact-me {
+	margin-top: 60px;
+	color: royalblue;
+	display: flex;
+	/* align-items: center; */
+	flex-direction: column;
+	background: #fff;
+	overflow-x: hidden;
+}
+
+.contact-me img {
+	height: 500px;
+}
+
+.contact-me input {
+	height: 50px;
+}
+
+.contact-me .pi {
+	background: rgb(245, 237, 237);
+}
